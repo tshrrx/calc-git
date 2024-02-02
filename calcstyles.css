@@ -7,7 +7,7 @@ body{
     background-color: hsl(0, 0%, 95%);
 }
 
-#calc{
+#calculate{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
@@ -37,7 +37,7 @@ button{
     height: 100px;
     border-radius: 50px;
     border: none;
-    backgroud-color: hsl(0 0% 30%);
+    background-color: hsl(0 0% 30%);
     color: white;
     font-size: 3rem;
     font-weight: bold;
